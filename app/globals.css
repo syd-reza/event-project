@@ -45,3 +45,12 @@ body {
   background-color: #199A8E;
   opacity: 100%;
 }
+
+.customSwiperTwo .swiper-pagination-bullet {
+  background-color: #fff;
+  opacity: 1;
+}
+
+.customSwiperTwo .swiper-pagination-bullet-active {
+  background-color: #199A8E;
+}

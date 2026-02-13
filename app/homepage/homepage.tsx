@@ -3,6 +3,7 @@ import Slider from "@/conponents/Slider/Slider";
 import Userhealtinfo from "@/conponents/Userhealtinfo/Userhealtinfo";
 import Dailycheckup from "@/conponents/Dailycheckup/Dailycheckup";
 import Categoryhome from "@/conponents/Categoryhome/Categoryhome";
+import Ckeckupresult from "@/conponents/Ckeckupresult/Ckeckupresult";
 
 export default function Homepage() {
   return (
@@ -12,6 +13,7 @@ export default function Homepage() {
       <Userhealtinfo/>
       <Categoryhome/>
       <Dailycheckup/>
+      <Ckeckupresult/>
     </div>
   );
 }
